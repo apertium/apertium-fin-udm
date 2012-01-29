@@ -1,29 +1,29 @@
 * text=auto !eol
-apertium-fin-udm/AUTHORS -text
-apertium-fin-udm/COPYING -text
-apertium-fin-udm/ChangeLog -text
-apertium-fin-udm/Makefile.am -text
-apertium-fin-udm/NEWS -text
-apertium-fin-udm/README -text
-apertium-fin-udm/apertium-fin-udm.fin-udm.dix -text
-apertium-fin-udm/apertium-fin-udm.fin-udm.lrx -text
-apertium-fin-udm/apertium-fin-udm.fin-udm.rlx -text
-apertium-fin-udm/apertium-fin-udm.fin-udm.t1x -text
-apertium-fin-udm/apertium-fin-udm.fin-udm.t2x -text
-apertium-fin-udm/apertium-fin-udm.fin-udm.t3x -text
-apertium-fin-udm/apertium-fin-udm.fin.lexc -text
-apertium-fin-udm/apertium-fin-udm.fin.twol -text
-apertium-fin-udm/apertium-fin-udm.udm-fin.lrx -text
-apertium-fin-udm/apertium-fin-udm.udm-fin.rlx -text
-apertium-fin-udm/apertium-fin-udm.udm-fin.t1x -text
-apertium-fin-udm/apertium-fin-udm.udm-fin.t2x -text
-apertium-fin-udm/apertium-fin-udm.udm-fin.t3x -text
-apertium-fin-udm/apertium-fin-udm.udm.lexc -text
-apertium-fin-udm/apertium-fin-udm.udm.twol -text
-apertium-fin-udm/autogen.sh -text
-apertium-fin-udm/configure.ac -text
-apertium-fin-udm/fin-udm.prob -text svneol=unset#unset
-apertium-fin-udm/modes.xml -text
-apertium-fin-udm/text/fin.txt -text
-apertium-fin-udm/text/udm.txt -text svneol=unset#application/octet-stream
-apertium-fin-udm/udm-fin.prob -text svneol=unset#unset
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-fin-udm.fin-udm.dix -text
+/apertium-fin-udm.fin-udm.lrx -text
+/apertium-fin-udm.fin-udm.rlx -text
+/apertium-fin-udm.fin-udm.t1x -text
+/apertium-fin-udm.fin-udm.t2x -text
+/apertium-fin-udm.fin-udm.t3x -text
+/apertium-fin-udm.fin.lexc -text
+/apertium-fin-udm.fin.twol -text
+/apertium-fin-udm.udm-fin.lrx -text
+/apertium-fin-udm.udm-fin.rlx -text
+/apertium-fin-udm.udm-fin.t1x -text
+/apertium-fin-udm.udm-fin.t2x -text
+/apertium-fin-udm.udm-fin.t3x -text
+/apertium-fin-udm.udm.lexc -text
+/apertium-fin-udm.udm.twol -text
+/autogen.sh -text
+/configure.ac -text
+/fin-udm.prob -text svneol=unset#unset
+/modes.xml -text
+text/fin.txt -text
+text/udm.txt -text svneol=unset#application/octet-stream
+/udm-fin.prob -text svneol=unset#unset
