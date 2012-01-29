@@ -125,8 +125,8 @@
 
 
    <!-- Раздел: Собственные -->
-   <e><p>Jaakko<l><s n="name"/></l><r>Ваня<s n="name"/></r></p></e>
-   <e><p>Mari<l><s n="name"/></l><r>Маша<s n="name"/></r></p></e>
+   <e><p><l>Jaakko<s n="name"/></l><r>Ваня<s n="name"/></r></p></e>
+   <e><p><l>Mari<s n="name"/></l><r>Маша<s n="name"/></r></p></e>
 
     <!-- Раздел: Пунктуация -->
     
