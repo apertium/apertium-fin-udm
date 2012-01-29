@@ -161,41 +161,41 @@ LEXICON CASEPL
 %<abl%>%<px2pl%>:%>тэс K ; ! гуртъётэс
 %<abl%>%<px3pl%>:%>сэс K ; ! гуртъёсэс
 
-LEXICON TEST0001
-%<ins%>:%> K ;
-%<ins%>%<px1sg%>:%> K ;
-%<ins%>%<px2sg%>:%> K ;
-%<ins%>%<px3sg%>:%> K ;
-%<ins%>%<px1pl%>:%> K ;
-%<ins%>%<px2pl%>:%> K ;
-%<ins%>%<px3pl%>:%> K ;
-
-%<ins%>:%>%{E%}н K ;
-%<ins%>%<px1sg%>:%> K ;
-%<ins%>%<px2sg%>:%> K ;
-%<ins%>%<px3sg%>:%> K ;
-%<ins%>%<px1pl%>:%> K ;
-%<ins%>%<px2pl%>:%> K ;
-%<ins%>%<px3pl%>:%> K ;
-
-
-LEXICON TEST0001
-
-%<ins%>:%>ын K ;
-%<ins%>%<px1sg%>:%>%{E%}н K ;
-%<ins%>%<px2sg%>:%>%{E%}н K ;
-%<ins%>%<px3sg%>:%>%{E%}н K ;
-%<ins%>%<px1pl%>:%>%{E%}н K ;
-%<ins%>%<px2pl%>:%>%{E%}н K ;
-%<ins%>%<px3pl%>:%>%{E%}н K ;
-
-%<ins%>:%>%{E%}н K ;
-%<ins%>%<px1sg%>:%>%{E%}н K ;
-%<ins%>%<px2sg%>:%>%{E%}н K ;
-%<ins%>%<px3sg%>:%>%{E%}н K ;
-%<ins%>%<px1pl%>:%>%{E%}н K ;
-%<ins%>%<px2pl%>:%>%{E%}н K ;
-%<ins%>%<px3pl%>:%>%{E%}н K ;
+!! LEXICON TEST0001
+!! %<ins%>:%> K ;
+!! %<ins%>%<px1sg%>:%> K ;
+!! %<ins%>%<px2sg%>:%> K ;
+!! %<ins%>%<px3sg%>:%> K ;
+!! %<ins%>%<px1pl%>:%> K ;
+!! %<ins%>%<px2pl%>:%> K ;
+!! %<ins%>%<px3pl%>:%> K ;
+!! 
+!! %<ins%>:%>%{E%}н K ;
+!! %<ins%>%<px1sg%>:%> K ;
+!! %<ins%>%<px2sg%>:%> K ;
+!! %<ins%>%<px3sg%>:%> K ;
+!! %<ins%>%<px1pl%>:%> K ;
+!! %<ins%>%<px2pl%>:%> K ;
+!! %<ins%>%<px3pl%>:%> K ;
+!! 
+!! 
+!! LEXICON TEST0001
+!! 
+!! %<ins%>:%>ын K ;
+!! %<ins%>%<px1sg%>:%>%{E%}н K ;
+!! %<ins%>%<px2sg%>:%>%{E%}н K ;
+!! %<ins%>%<px3sg%>:%>%{E%}н K ;
+!! %<ins%>%<px1pl%>:%>%{E%}н K ;
+!! %<ins%>%<px2pl%>:%>%{E%}н K ;
+!! %<ins%>%<px3pl%>:%>%{E%}н K ;
+!! 
+!! %<ins%>:%>%{E%}н K ;
+!! %<ins%>%<px1sg%>:%>%{E%}н K ;
+!! %<ins%>%<px2sg%>:%>%{E%}н K ;
+!! %<ins%>%<px3sg%>:%>%{E%}н K ;
+!! %<ins%>%<px1pl%>:%>%{E%}н K ;
+!! %<ins%>%<px2pl%>:%>%{E%}н K ;
+!! %<ins%>%<px3pl%>:%>%{E%}н K ;
 
 
 LEXICON CASECOMMON
